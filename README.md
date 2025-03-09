@@ -45,3 +45,9 @@ Swagger Documentation
 - Health check endpoint created. The goal is that the app builds faster than the db and throws a connection request to the db and the application fails to start.
 - Better error handling
 - Consistent response formats
+
+
+docker-compose up --build
+
+
+
